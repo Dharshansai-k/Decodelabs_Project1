@@ -70,7 +70,5 @@ Bot: Goodbye! Chat ended.
 ---
 
 ## Author
-
 Dharshan Sai Kalavakunta
-Artificial Intelligence Intern
-Decode Labs
+Artificial Intelligence Intern, Decode Labs
